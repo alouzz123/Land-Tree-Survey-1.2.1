@@ -1,0 +1,22 @@
+workflows:
+  android-apk:
+    name: Build Land Tree Survey APK
+    max_build_duration: 60
+
+    environment:
+      flutter: stable
+
+    scripts:
+      - name: Vérifier la configuration cloud
+        script: |
+          test -f supabase.json
+          echo "Configuration cloud trouvée"
+
+      - name: Installer les dépendances
+        script: flutter pub get
+
+      - name: Construire l'APK
+        script: flutter build apk --release --dart-define-from-file=supabase.json
+
+    artifacts:
+      - build/app/outputs/flutter-apk/app-release.apk

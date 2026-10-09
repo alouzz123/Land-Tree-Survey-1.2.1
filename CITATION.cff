@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use Land.Tree Survey in your research, please cite this software."
+title: "Land.Tree Survey: An Offline Mobile Application for Georeferenced Tree Inventory and Dendrometric Data Collection"
+type: software
+version: 1.2.1
+date-released: 2026-10-09
+authors:
+  - family-names: Niang
+    given-names: Al Housseynou
+    affiliation: "Centre de Suivi Écologique (CSE); Université numérique Cheikh Hamidou Kane (UN-CHK)"
+abstract: >-
+  Land.Tree Survey is an offline-first Flutter mobile application for plot-based,
+  georeferenced tree inventories. It supports simple surveys, dendrometric
+  measurements, GPS coordinates, photographs, local storage, cloud
+  synchronization and structured CSV/XLSX exports.
+keywords:
+  - tree inventory
+  - agroforestry
+  - dendrometry
+  - GPS
+  - mobile data collection
+  - Flutter
+repository-code: "https://github.com/alouzz123/cse_field_dendro_2026"

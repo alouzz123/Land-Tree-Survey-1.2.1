@@ -1,0 +1,61 @@
+{
+  "title": "Land.Tree Survey: An Offline Mobile Application for Georeferenced Tree Inventory and Dendrometric Data Collection",
+  "description": "Land.Tree Survey is an offline-first mobile application for georeferenced tree inventories in agroforestry systems and savanna landscapes. It supports plot management, simple tree surveys, complete dendrometric inventories, GPS acquisition, photographs, local storage, cloud synchronization and structured CSV/XLSX exports. The application was developed within the framework of the GALILEO project.",
+  "upload_type": "software",
+  "publication_date": "2026-10-09",
+  "version": "1.2.1",
+  "language": "eng",
+  "creators": [
+    {
+      "name": "Niang, Al Housseynou",
+      "affiliation": "Centre de Suivi Écologique (CSE); Université numérique Cheikh Hamidou Kane (UN-CHK)"
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Diouf, Abdoul Aziz",
+      "type": "Supervisor",
+      "affiliation": "Centre de Suivi Écologique (CSE), Sénégal"
+    },
+    {
+      "name": "Lo, Adama",
+      "type": "Supervisor",
+      "affiliation": "Centre de Suivi Écologique (CSE), Sénégal"
+    },
+    {
+      "name": "Tong, Xiaoye",
+      "type": "Supervisor",
+      "affiliation": "University of Copenhagen (UCPH), Denmark"
+    },
+    {
+      "name": "Leroux, Louise",
+      "type": "Supervisor",
+      "affiliation": "CIRAD, France"
+    },
+    {
+      "name": "Sylla, Diara",
+      "type": "Supervisor",
+      "affiliation": "Centre de Suivi Écologique (CSE), Sénégal"
+    },
+    {
+      "name": "Charahabil, Mohamed M.",
+      "type": "Supervisor",
+      "affiliation": "Université Assane Seck de Ziguinchor (UASZ), Sénégal"
+    },
+    {
+      "name": "Roupsard, Olivier",
+      "type": "Supervisor",
+      "affiliation": "CIRAD, France"
+    }
+  ],
+  "keywords": [
+    "tree inventory",
+    "agroforestry",
+    "dendrometry",
+    "tree mapping",
+    "mobile data collection",
+    "GPS",
+    "Flutter",
+    "GALILEO"
+  ]
+}
