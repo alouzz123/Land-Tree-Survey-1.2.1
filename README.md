@@ -1,5 +1,21 @@
 # Land.Tree Survey
 
+<p align="center">
+  <img src="assets/logos/logo_land_tree.png"
+       alt="Logo Land.Tree Survey"
+       width="180">
+</p>
+
+# Land.Tree Survey
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23267561.svg)](https://doi.org/10.5281/zenodo.23267561)
+
+Application mobile hors ligne destinée aux inventaires arborés et dendrométriques.
+
+## Citation
+
+Niang, A. H. (2026). *Land.Tree Survey v1.2.1 – Application mobile hors ligne pour les inventaires arborés et dendrométriques*. Zenodo. https://doi.org/10.5281/zenodo.23267562
+
 **Land.Tree Survey** est une application mobile Flutter conçue pour la collecte
 hors ligne et géoréférencée des données d’inventaire des arbres dans les
 systèmes agroforestiers et les paysages de savane.
